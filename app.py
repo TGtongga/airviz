@@ -732,7 +732,7 @@ def main():
         # Info section
         st.markdown("### ℹ️ About")
         st.info(
-            "This application visualizes global airline routes using data from OpenFlights. "
+            "This application visualizes global airline routes using data from OpenFlights up to June 2014. "
             "Use the filters above to explore specific airlines or countries. "
             "Hover over airports and routes for detailed information."
         )
