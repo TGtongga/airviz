@@ -1,0 +1,21 @@
+# Global Airline Routes Explorer - Python Dependencies
+# 
+# Core Framework & UI
+streamlit
+streamlit-bokeh
+
+# Data Processing & Analysis
+polars
+pandas
+numpy
+
+# Visualization Libraries
+bokeh
+holoviews
+hvplot
+panel
+datashader
+
+# Supporting Libraries
+pyproj
+colorcet
